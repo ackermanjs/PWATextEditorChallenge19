@@ -13,10 +13,11 @@ The Heroku deployed application can be viewed here: https://floating-lake-71729.
 This application can be accessed in the browser via the Heroku deployed link: https://floating-lake-71729.herokuapp.com/
 
 <br>
-![Screenshot (59)](https://user-images.githubusercontent.com/66087068/226757545-06956d7e-bbda-4392-aa8b-5a35f9e54094.png)
-![Screenshot (60)](https://user-images.githubusercontent.com/66087068/226757547-70536d45-1ee9-4125-ad67-d455b5549cc4.png)
-![Screenshot (61)](https://user-images.githubusercontent.com/66087068/226757548-110b83b3-ffae-4133-9218-89e7b5362b2e.png)
-![Screenshot (62)](https://user-images.githubusercontent.com/66087068/226757551-37535ad2-e77f-40ae-9e08-16db82ace970.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/66087068/226757893-cf308e1f-dc0e-4ee9-99e3-1aa6483d7cc8.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/66087068/226757896-b5119273-5d9f-4ed1-a5b2-ab94daa1b4cd.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/66087068/226757897-4a8099df-711e-4e2a-b04a-72e6b2359025.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/66087068/226757899-fb3cea5e-7701-4f02-b455-0fb722ee55ef.png)
+
 
 # Technology Used
 - Javascript
